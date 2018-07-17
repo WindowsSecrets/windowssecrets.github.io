@@ -27,3 +27,7 @@ rss: rss
 
 # Build settings
 theme: jekyll-theme-minimal
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
