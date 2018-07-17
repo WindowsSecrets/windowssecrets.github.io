@@ -2,9 +2,9 @@
 
 This is a working in progress project that is something like the others repository that has the name `awesome` something like `Windows awesome`. The goal here is to maintain a brief of articles, links about things hard to find.
 
-1. [Increase Network Speed via Registry Editor [Windows] ](#increase-network-speed-via-registry-editor-windows)
-2. [Remote OS Fingerprinting](#remote-os-fingerprinting)
-3. [Network/Host Discovery](https://windowssecrets.github.io/NetworkHostDiscovery/)
+- ## [Increase Network Speed via Registry Editor [Windows] ](#increase-network-speed-via-registry-editor-windows) ##
+- ## [Remote OS Fingerprinting](#remote-os-fingerprinting) ##
+- ## [Network/Host Discovery](https://windowssecrets.github.io/NetworkHostDiscovery/) ##
 
 # Increase Network Speed via Registry Editor [Windows] 
 
