@@ -4,6 +4,7 @@ permalink: /increaseNetworkSpeed/
 title: Increase Network Speed
 ---
 [Go Back to Main](https://windowssecrets.github.io)
+
 # Increase Network Speed
 
 ## IRPStackSize
