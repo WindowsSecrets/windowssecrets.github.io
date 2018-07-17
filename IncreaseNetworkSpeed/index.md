@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /increaseNetworkSpeed/
+permalink: /IncreaseNetworkSpeed/
 title: Increase Network Speed
 ---
 [Go Back to Main](https://windowssecrets.github.io)
