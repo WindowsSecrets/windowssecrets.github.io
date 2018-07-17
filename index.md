@@ -1,4 +1,4 @@
-# Windows "almost" Secrets #
+# Introduction #
 
 This is a working in progress project that is something like the others repository that has the name `awesome` something like `Windows awesome`. The goal here is to maintain a brief of articles, links about things hard to find.
 
