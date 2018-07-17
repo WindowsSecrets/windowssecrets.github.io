@@ -1,10 +1,10 @@
 ---
 layout: default
 permalink: /increaseNetworkSpeed/
-title: Increase Network Speed via Registry Editor
+title: Increase Network Speed
 ---
 [Go Back to Main](https://windowssecrets.github.io)
-# Increase Network Speed via Registry Editor
+# Increase Network Speed
 
 ## IRPStackSize
 
