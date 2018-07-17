@@ -1,4 +1,11 @@
 
+---
+layout: default
+permalink: /NetworkHostDiscovery/
+title: Network/Host Discovery
+---
+[Go Back to Main](https://windowssecrets.github.io)
+
 # Network/Host Discovery
 
 ## Windows API References
