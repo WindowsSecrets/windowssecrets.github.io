@@ -2,7 +2,7 @@
 
 This is a working in progress project that is something like the others repository that has the name `awesome` something like `Windows awesome`. The goal here is to maintain a brief of articles, links about things hard to find.
 
-- ## [Increase Network Speed via Registry Editor [Windows] ](#increase-network-speed-via-registry-editor-windows) ##
+- ## [Increase Network Speed via Registry Editor](#increase-network-speed-via-registry-editor-windows) ##
 - ## [Remote OS Fingerprinting](#remote-os-fingerprinting) ##
 - ## [Network/Host Discovery](https://windowssecrets.github.io/NetworkHostDiscovery/) ##
 
@@ -54,12 +54,3 @@ Add “DefaultTTL” as a DWORD value within the “Parameters” key. Set the v
 2. http://www.speedguide.net/articles/windows-8-10-2012-server-tcpip-tweaks-5077
 3. https://technet.microsoft.com/pt-br/library/cc739819(v=ws.10).aspx
 4. http://subinsb.com/default-device-ttl-values
-
-# Remote OS Fingerprinting
-
-## References
-
-1. http://forensicswiki.org/wiki/OS_fingerprinting
-2. https://www.sans.org/reading-room/whitepapers/testing/overview-remote-operating-system-fingerprinting-1231
-3. https://nmap.org/book/osdetect.html
-4. http://www.slashroot.in/fingerprinting-detect-remote-operating-system
